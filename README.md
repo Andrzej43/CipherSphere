@@ -1,74 +1,81 @@
-<!-- fallback_CipherSphere_20260703031621_47703 -->
+# ARRR.fun 🏴‍☠️
 
-# CipherSphere: Highly parallelized CipherSphere orchestrates intelligent distributed workloads across multi-tenant auto-scaling environments as a dynamic compute fabric platform Implementation
-> Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
+**World’s first agentic crowd-coded pirate MMORPG**
 
-Highly parallelized CipherSphere orchestrates intelligent distributed workloads across multi-tenant auto-scaling environments as a dynamic compute fabric platform.
+Free browser-based multiplayer pirate game. No download required.  
+Play instantly → [play.arrr.fun](https://play.arrr.fun)
 
-CipherSphere is designed to provide developers and professionals with a robust, efficient, and scalable solution for their javascript development needs. This implementation focuses on performance, maintainability, and ease of use, incorporating industry best practices and modern software architecture patterns.
+---
 
-The primary purpose of CipherSphere is to streamline development workflows and enhance productivity through innovative features and comprehensive functionality. Whether you're building enterprise applications, data processing pipelines, or interactive systems, CipherSphere provides the foundation you need for successful project implementation.
+## What is ARRR?
 
-CipherSphere's key benefits include:
+ARRR is a top-down open-world pirate MMO where you create a captain, sail the seas, fight monsters and other pirates, trade, form clans, upgrade ships, and hunt for buried treasure.
 
-* **High-performance architecture**: Leveraging optimized algorithms and efficient data structures for maximum performance.
-* **Modern development patterns**: Implementing contemporary software engineering practices and design patterns.
-* **Comprehensive testing**: Extensive test coverage ensuring reliability and maintainability.
+The game is **crowd-coded by the community** using AI agents:
+- Players vote on bugs, features, and improvements on the [Bounty Board](https://bounty.arrr.fun)
+- Highest-voted tickets are automatically assigned to Fable coding agents
+- Agents submit PRs with almost no human prompting
+- 70+ fixes and features shipped within the first 24 hours of the system going live
 
-# Key Features
+The entire game client is only ~5 MB of pure code (no image, model, or sound assets). Everything is procedurally generated.
 
-* **Modern ES6+ JavaScript features**: Advanced implementation with optimized performance and comprehensive error handling.
-* **Asynchronous programming patterns**: Advanced implementation with optimized performance and comprehensive error handling.
-* **Modular component architecture**: Advanced implementation with optimized performance and comprehensive error handling.
-* **Cross-browser compatibility**: Advanced implementation with optimized performance and comprehensive error handling.
-* **Responsive design principles**: Advanced implementation with optimized performance and comprehensive error handling.
+---
 
-# Technology Stack
+## Features
 
-* **Javascript**: Primary development language providing performance, reliability, and extensive ecosystem support.
-* **Modern tooling**: Utilizing contemporary development tools and frameworks for enhanced productivity.
-* **Testing frameworks**: Comprehensive testing infrastructure ensuring code quality and reliability.
+- Customizable pirate avatar (hats, eye patches, gold, etc.)
+- Procedurally generated world with multiple towns (Redtide, Redrock, Shadowwater…)
+- Up to 250 concurrent players per town
+- Real-time multiplayer combat, trading, and chat
+- Ships with cannons, crew management, and sailing
+- Treasure Hunt system (map pieces drop from monsters & PvP, soulbound to clans)
+- Poker & Blackjack in taverns
+- Leaderboard powered by in-game activity + X posts + RunHQ contributions
+- Voice chat support
 
-# Installation
+---
 
-To install CipherSphere, follow these steps:
+## Controls
 
-1. Clone the repository:
+| Key | Action |
+|-----|--------|
+| WASD | Move |
+| Mouse | Look / Aim |
+| Click | Attack |
+| E | Interact |
+| Q | Swap weapon |
+| I | Inventory |
+| M | Map |
+| Space | Jump / Swim |
+| Ctrl | Dive |
+| Enter | Chat |
+| Esc | Settings |
 
+---
 
-2. Follow the installation instructions in the documentation for your specific environment.
+## $ARRR Token
 
-# Configuration
+- **Chain**: Solana  
+- **Mint**: `5u83eeMKS5drqAdchhJQeUpt7x4DNaU7ZBnaMZjUpump`  
+- Launched on pump.fun (July 4, 2026)  
+- 100M $ARRR tokens planned to be buried as loot across the game world
 
-CipherSphere supports various configuration options to customize behavior and optimize performance for your specific use case. Configuration can be managed through environment variables, configuration files, or programmatic settings.
+---
 
-## # Configuration Options
+## Links
 
-The following configuration parameters are available:
+- **Play the game**: [play.arrr.fun](https://play.arrr.fun)
+- **Main site**: [arrr.fun](https://arrr.fun)
+- **Bounty Board**: [bounty.arrr.fun](https://bounty.arrr.fun)
+- **X / Twitter**: [@bboym0dE](https://x.com/bboym0dE)
 
-* **Verbose Mode**: Enable detailed logging for debugging purposes
-* **Output Format**: Customize the output format (JSON, CSV, XML)
-* **Performance Settings**: Adjust memory usage and processing threads
-* **Network Settings**: Configure timeout and retry policies
+---
 
-# Contributing
+## Built by
 
-Contributions to CipherSphere are welcome and appreciated! We value community input and encourage developers to help improve this project.
+Solo developer **m0dE** [](https://x.com/bboym0dE) + the community  
+Alliance DAO alum · previously worked on indie.fun and modd.io
 
-## # How to Contribute
+---
 
-1. Fork the CipherSphere repository.
-2. Create a new branch for your feature or fix.
-3. Implement your changes, ensuring they adhere to the project's coding standards and guidelines.
-4. Submit a pull request, providing a detailed description of your changes.
-
-## # Development Guidelines
-
-* Follow the existing code style and formatting conventions
-* Write comprehensive tests for new features
-* Update documentation when adding new functionality
-* Ensure all tests pass before submitting your pull request
-
-# License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Andrzej43/CipherSphere/blob/main/LICENSE) file for details.
+*Set sail, ye scallywags.*
